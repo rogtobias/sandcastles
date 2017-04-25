@@ -1,0 +1,13 @@
+#dragon, #fan, #buddha, #groovy {
+  display: none;
+}
+
+span {
+  cursor: pointer;
+  color: #0088cc;
+
+}
+
+span:hover {
+    text-decoration: underline;
+}
